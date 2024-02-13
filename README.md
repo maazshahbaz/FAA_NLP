@@ -13,5 +13,6 @@ Steps for Inference:
 
 2) Download the Checkpoint from the Google Drive link
   After downloading the checkpoint you can use Inference_whisper.py file
-  you have to pass the address of the checkpoint in the designated locations in the inference code.
+  You have to pass the address of the checkpoint in the designated locations in the inference code.
+  You might have to import data according to your needs.
 
